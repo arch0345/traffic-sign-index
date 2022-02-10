@@ -1,0 +1,8 @@
+{
+    "name": "Stop",
+    "tags": {
+        "highway": "stop",
+        "traffic_sign": "US:R1-1"
+    },
+    "wikidata": "Q97329852"
+}

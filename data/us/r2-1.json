@@ -1,0 +1,8 @@
+{
+    "name": "Speed Limit",
+    "tags": {
+        "traffic_sign": "US:R2-1"
+    },
+    "note": "Currently conflicting with `traffic_sign=maxspeed`",
+    "wikidata": "Q97330484"
+}
